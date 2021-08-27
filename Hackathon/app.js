@@ -193,7 +193,7 @@ function mainLoad() {
         window.location.replace('rest.html')
     };
     butnRest.onclick = function () {
-        window.location('user.html')
+        window.location.replace('user.html')
 
     }
 }
